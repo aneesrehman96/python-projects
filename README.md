@@ -1,7 +1,7 @@
 # Optimizing Resource Allocations
 This project contains a handful of different optimization problems and my solutions. At a high level, I looked to optimize financial resource allocations for products and services with various levels of associated costs and constraints.
 # How I Did It:
-Tech used: Python
+Tech used: Python.
 Before beginning my analysis, I imported the following libraries:
 * NumPy
 * Pandas
